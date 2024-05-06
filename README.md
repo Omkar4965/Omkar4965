@@ -13,6 +13,8 @@
 - Web Development: MERN stack
 - Tools & Technologies: Git, GitHub, VS Code
 
+ ## ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar4965&show_icons=true&theme=radical)
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/omkar-chavan-476a63249)
 - [Instagram](https://www.instagram.com/omkarc_24)
