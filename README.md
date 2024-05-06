@@ -14,6 +14,5 @@
 - Tools & Technologies: Git, GitHub, VS Code
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/omkar-chavan-476a63249)
+- [LinkedIn](https://www.linkedin.com/in/omkar-chavan-476a63249)
 - [Instagram](https://www.instagram.com/omkarc_24)
-- [Gmail](omkarc4965@gmail.com)
