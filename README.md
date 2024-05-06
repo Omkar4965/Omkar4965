@@ -10,7 +10,7 @@
 
 ## Skills
 - Programming Languages: C++
-- Web Development: MERN stack
+- Web Development: HTML, CSS, Javascript, React, Node.js, Express.js, Mongodb
 - Tools & Technologies: Git, GitHub, VS Code
 
 ## Connect with Me
