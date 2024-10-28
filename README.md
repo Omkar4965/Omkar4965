@@ -6,10 +6,12 @@
 - 🌱 Currently learning about Artificial Intelligence and Machine Learning
 
 ## DSA
-- [Leetcode](https://leetcode.com/u/omkarc4965/)  -[Codeshef](https://www.codechef.com/users/omkarc4965)
+- [Leetcode](https://leetcode.com/u/omkarc4965/)
+- [Codeshef](https://www.codechef.com/users/omkarc4965)
 
 ## Projects
-- [QuillConnect](https://quill-connect-git-main-omkar4965s-projects.vercel.app/) -[Flashcards](https://flashcards-omkar4965s-projects.vercel.app/)
+- [QuillConnect](https://quill-connect-git-main-omkar4965s-projects.vercel.app/)
+- [Flashcards](https://flashcards-omkar4965s-projects.vercel.app/)
 
 ## Skills
 - Programming Languages: C++
