@@ -12,7 +12,7 @@
 ## Projects
 - [QuillConnect](https://quill-connect-git-main-omkar4965s-projects.vercel.app/)
 - [Flashcards](https://flashcards-omkar4965s-projects.vercel.app/)
-- [Email / SMS Spam Classifier](https://spam-sms-classifier-omkxn.onrender.com/)
+- [Email / SMS Spam Classifier](https://spam-sms-classifier-omkxr.onrender.com/)
 
 ## Skills
 - Programming Languages: C++
