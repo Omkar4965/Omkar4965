@@ -10,6 +10,7 @@
 - [Codeshef](https://www.codechef.com/users/omkarc4965)
 
 ## Projects
+- [prescriptpro](https://prescriptpro.vercel.app/)
 - [QuillConnect](https://quill-connect-git-main-omkar4965s-projects.vercel.app/)
 - [Flashcards](https://flashcards-omkar4965s-projects.vercel.app/)
 - [Email / SMS Spam Classifier](https://spam-sms-classifier-omkxr.onrender.com/)
