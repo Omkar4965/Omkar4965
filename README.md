@@ -7,7 +7,7 @@
 
 ## DSA
 - [Leetcode](https://leetcode.com/u/omkarc4965/)
-- [Codeshef](https://www.codechef.com/users/omkarc4965)
+- [CodeChef](https://www.codechef.com/users/omkarc4965)
 
 ## Projects
 - [Prescriptpro](https://prescriptpro.vercel.app/)
